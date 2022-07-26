@@ -6,7 +6,7 @@
 
 ---
 
-[![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=kms8000)](https://solved.ac/kms8000)
+[![algorithm](http://mazassumnida.wtf/api/mini/generate_badge?boj=kms8000)](https://solved.ac/kms8000)
 
 
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
