@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/Intellij IDEA-000000?style=flat-square&logo=Intellij IDEA&logoColor=white"/>
 <img src="https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=WebStorm&logoColor=white"/>
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinsuKim21&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
+<!--   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinsuKim21&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/> -->
 <br>
 <br>
 <br>
