@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hello✋ I'm Minsu Kim</h1>
-  <p>💻I want to become a front-end developer💻</p>
+  <p>💻I want to become a <strong>front-end developer</strong>💻</p>
   <p> Department of Convergence Software, Myongji Univ.</p>
   <h3>technology stacks</h3> 
   <div display="flex">
@@ -10,6 +10,9 @@
     <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=Solidity&logoColor=white"/>
   </div>
   <br>
-  ![Metrics](/github-metrics.svg)
+  
+  <picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+  </picture>  
 
 <div>
